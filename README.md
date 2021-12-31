@@ -1,5 +1,5 @@
 # HUST-Atg1
-**Note: For integration of multiomics  datasets, we developed a novel meta-hybrid learning framework for unbiased prediction of Atg1-interacting partners and substrates (HUST-Atg1) that are potentially involved in autophagy.
+**Note**: For integration of multiomics  datasets, we developed a novel meta-hybrid learning framework for unbiased prediction of Atg1-interacting partners and substrates (HUST-Atg1) that are potentially involved in autophagy.
 
 ## Requirements
 
